@@ -1,0 +1,27 @@
+.dropdown {
+    background-color: white;
+    overflow: hidden;
+    justify-content: center;
+  }
+
+  .dropdown a {
+    float: left;
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .dropdown a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .category-button:hover .category-content {display: block;}
+
+  h2{
+    color: white;
+    background-color: grey;
+  }
